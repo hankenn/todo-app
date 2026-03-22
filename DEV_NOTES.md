@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Bumped patch version
 - Added CONTRIBUTING.md stub
+
+## 2026-03-23
+- Updated license year
+- Resolved TODO items from previous session
+- Updated CI cache strategy
