@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Refactored module structure for clarity
 - Reorganised test fixtures
+
+## 2026-03-23
+- Bumped patch version
+- Added CONTRIBUTING.md stub
