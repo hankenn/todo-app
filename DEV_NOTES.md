@@ -19,3 +19,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated license year
 - Resolved TODO items from previous session
 - Updated CI cache strategy
+
+## 2026-03-23
+- Removed unused variable declarations
